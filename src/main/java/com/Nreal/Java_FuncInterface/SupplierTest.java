@@ -1,5 +1,6 @@
 package com.Nreal.Java_FuncInterface;
 
+
 import java.util.Random;
 import java.util.function.Supplier;
 
